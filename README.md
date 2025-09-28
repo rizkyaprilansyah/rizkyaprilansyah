@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello, I am Rizky Dani 👋
+![rizky border](Border/github-header-banner.png)
+🌱 I’m currently learning in Institut Teknologi Sepuluh Nopember as Mathematics Student
 <!--
 **rizkyaprilansyah/rizkyaprilansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
